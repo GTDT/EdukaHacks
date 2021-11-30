@@ -17,6 +17,6 @@ we easily getting all the answers.
 [![N|Solid](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.alchemysoftware.com%2Fimages%2Fyoutube_play_small.png&f=1&nofb=1)](https://youtu.be/ge3s9L1Dj8M)
 
 ## Quick script preview
-```js
+~~~js
 window.open("https://klase.eduka.lt/api/student/quiz-templates/result-xml/"+(window.location.pathname).slice(30, 38)+"/perziura")
-```
+~~~
