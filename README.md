@@ -14,7 +14,7 @@ we easily getting all the answers.
 - Then search for your question name in that `.xml` page, scroll a little bit lower and you will see all of your answers to your question.
 
 ## Video Tutoarial
-[![N|Solid](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.alchemysoftware.com%2Fimages%2Fyoutube_play_small.png&f=1&nofb=1)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.alchemysoftware.com%2Fimages%2Fyoutube_play_small.png&f=1&nofb=1)](https://youtu.be/ge3s9L1Dj8M)
 
 ## Quick script preview
 ```js
